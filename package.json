@@ -8,11 +8,11 @@
     "postinstall": "node postinstall.js"
   },
   "engines": {
-    "node": "<=16"
+    "node": ">=16"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/romacher/morse-decoder.git"
+    "url": "git+hnttps://github.com/romacher/morse-decoder.git"
   },
   "author": "Roman Chernyavski",
   "license": "ISC",
